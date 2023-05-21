@@ -21,8 +21,7 @@
     </a>
 </p>
 
-<h3>Descrição do Projeto</h3>
-<p><a href="https://gist.github.com/cami-la/560b455b901778391abd2c9edea81286">https://gist.github.com/cami-la/560b455b901778391abd2c9edea81286</a></p>
+
 <figure>
 <p align="center">
   <img src="https://i.imgur.com/7phya16.png" height="350" width="450" alt="API para Sistema de Avaliação de Créditos"/><br>
